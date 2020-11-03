@@ -55,9 +55,10 @@ Endlich, das neue iOS für's Tablet ist draußen!
 - Fahrzeuge für die Fraktion gesetzt
 - Leitstelle erstellt
 - Interior für das Pillbox Krankenhaus eingefügt
-[**Tablet**]
+***
+[**Tablet**] 
 - LSMD APP erstellt
-  - Dispatches und Aktuelle Fahrzeuge
+- Dispatches und Aktuelle Fahrzeuge
 [**Kleidung**]
 - Es wird noch entschieden ob es eine feste Kleiderordnung für's LSMD geben wird
 ***
