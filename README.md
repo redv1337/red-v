@@ -8,7 +8,7 @@
 - Tankstellen System
 - Bankautomaten
 - Hud/UI Überarbeitung
-- Illegale Fraktionen
+- Legale Fraktionen
 
 ## Tankstellen System
 <p align="center">
