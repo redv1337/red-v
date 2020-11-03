@@ -15,15 +15,12 @@
   <img src="http://i.epvpimg.com/e20Gbab.png" alt="Banner"/>
 </p>
 
-Man kann sein Fahrzeug nun auch an Tankstellen tanken.
+Tank leer? kein Problem! mit diesem Update hast du nun die möglichkeit dazu.
 
-### Bankautomaten
+## Bankautomaten
 Es ist nun möglich, Bankautomaten im Spiel zu benutzen.
 Dazu musst du einfach an einen Automaten gehen dein Inventar (I) öffnen und auf der EC-Karte -> Benutzen drücken.
 Danach taucht ein Bankmenü auf.
-
-## Bankautomaten
-Es wurden nun Bankautomaten ins Spiel implementiert!
 
 ## Tablet
 <p align="center">
