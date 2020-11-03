@@ -22,26 +22,31 @@ Es ist nun möglich, Bankautomaten im Spiel zu benutzen.
 Dazu musst du einfach an einen Automaten gehen dein Inventar (I) öffnen und auf der EC-Karte -> Benutzen drücken.
 Danach taucht ein Bankmenü auf.
 
-## Deathscreen
-Wenn man Stribt bekommt man nun einen Deathscreen.
+## Bankautomaten
+Es wurden nun Bankautomaten ins Spiel implementiert!
 
 ## Tablet
 <p align="center">
-  <img src="https://puu.sh/GpbNP/ba0e79d221.png" alt="Banner"/>
+  <img src="http://i.epvpimg.com/kPjJeab.png" alt="Banner"/>
 </p>
 
 Endlich, das neue iOS für's Tablet ist draußen!
 
 | Frakmanager-App | Beschreibung |
 | ------| ------------ |
-| /setzoll <Wert> | Setzt den Zollpreis fest (0$ - 1000$) |
-| /setgunprice <Wert> | Setzt die Hauswaffenpreisabgabe fest (0% - 10%) |
-| /setmarketprice <Wert> | Setzt die Marktpreisabgabe fest (0% - 10%) |
-| /sethouseprice <Wert> | Setzt die Hauspreisabgabe fest (0% - 10%) |
-| /setcarprice <Wert> | Setzt die Fahrzeugsteuer fest (0% - 100%) |
+| Mitglieder Verwalten | Übersicht welche Mitglieder in der Fraktion sind |
+| Gehälter Verwalten | Gehalt für einen Rank setzen |
+| Rank Bezeichnungen | Rankbezeichnung setzen |
+| Mitglieder Einladen | In die Fraktion einladen |
 
-### Secret Service
-Jede gute Regierung braucht auch ein wenig Schutz. Deshalb führen wir zusätzlich zum Regierungscomback eine weitere Fraktion ein. Den **Secret Service**. Dieser hat primär die Aufgabe die Regierung und dessen Gebäude zu beschützen. Dazu hat die Fraktion die gleichen Rechte und Befehle wie andere Cop Fraktionen. Der Leader und deren Member können von der aktuellen Regierung bestimmt werden. **Weitere Informationen dazu folgen.**
+### Los Santos Police Department
+***
+- Fraktionsgarage erstellt
+- Fraktionsspind erstellt
+- Ausrüstungspunkt erstellt
+- Dutymodus eingefügt.
+- Fahrzeuge für die Fraktion gesetzt
+- Leitstelle erstellt
 
 ### Neuer Heist
 Durch das Aufbrechen der Regierungsvilla (Glasscheibe) und das Eindringen in geheime Regierungsräume ist es Gangler möglich wichtige Dokumente zu stehlen, welche dann teuer bei dem jeweiligen Händler verkauft werden können. Gegeben man überlebt die Flucht vor dem Secret Service und den Cops. Möglich ist dieser Heist alle 3 Tage.
