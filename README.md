@@ -71,6 +71,7 @@ Endlich, das neue iOS für's Tablet ist draußen!
 - [**Garagen-UI**] Der Button zum schließen ist nun an der richtigen Stelle
 - [**ADMIN-CMD**] Admin-Befehle verbessert und teilweise ergänzt
 - [**Meldungen/Announce**] Meldungen welche von Admins ausgeführt werden verbessert
+- [**Bilder**] Es wurden weitere Bilder für unser UI eingefügt.
 
 *Umsetzung: **Takumi***
 <br>
