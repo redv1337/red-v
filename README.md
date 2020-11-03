@@ -44,7 +44,6 @@ Endlich, das neue iOS für's Tablet ist draußen!
 - Dutymodus eingefügt.
 - Fahrzeuge für die Fraktion gesetzt
 - Leitstelle erstellt
-***
 
 ### Los Santos Medical Department
 ***
@@ -59,6 +58,7 @@ Endlich, das neue iOS für's Tablet ist draußen!
 [**Tablet**] 
 - LSMD APP erstellt
 - Dispatches und Aktuelle Fahrzeuge
+***
 [**Kleidung**]
 - Es wird noch entschieden ob es eine feste Kleiderordnung für's LSMD geben wird
 ***
