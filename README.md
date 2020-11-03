@@ -22,23 +22,18 @@ Es ist nun möglich, Bankautomaten im Spiel zu benutzen.
 Dazu musst du einfach an einen Automaten gehen dein Inventar (I) öffnen und auf der EC-Karte -> Benutzen drücken.
 Danach taucht ein Bankmenü auf.
 
-## Wunschobjekte
-Ab sofort könnt ihr in einem limitierten Radius um eure Häuser einige Objekte erstellen. Diese werden zuerst nur für euch sichtbar sein, nach einer administrativen Freischaltung für jeden Spieler. Sollte ein Objekt nicht freigeschalten werden, wird dies beim nächsten Join im Chat angezeigt. **Jeglicher Abuse mit unsichtbaren Objekten wird sanktioniert.**
+## Deathscreen
+Wenn man Stribt bekommt man nun einen Deathscreen.
 
-| Befehl | Beschreibung |
-| ------ | ------------ |
-| /ho <Haus> | Öffnet das Hausobjektemenü |
-| /hoa | Öffnet das Adminmenü |
-
-## Regierung & Secret Service
+## Tablet
 <p align="center">
   <img src="https://puu.sh/GpbNP/ba0e79d221.png" alt="Banner"/>
 </p>
 
-Es gab in der Geschichte von RPG schon viele Anläufe eine funktionierende Regierung auf die Beine zu stellen. Wir wollen dem Ganzen nochmal eine Chance geben. Mit neuen Einstellungsmöglichkeiten und dem **Pfandleihhaus** bieten wir der Regierung viele weitere Möglichkeiten am Spielgeschehen teilzunehmen. **Dazu kommt ein neues Interior, eine ganz neue Fraktion und eine Krankenkasse für DMler!** ***Ein ausführliches Konzept und weitere Informationen folgen in den nächsten Tagen.***
+Endlich, das neue iOS für's Tablet ist draußen!
 
-| Befehl | Beschreibung |
-| ------ | ------------ |
+| Frakmanager-App | Beschreibung |
+| ------ ---------| ------------ |
 | /setzoll <Wert> | Setzt den Zollpreis fest (0$ - 1000$) |
 | /setgunprice <Wert> | Setzt die Hauswaffenpreisabgabe fest (0% - 10%) |
 | /setmarketprice <Wert> | Setzt die Marktpreisabgabe fest (0% - 10%) |
