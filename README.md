@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rpg-city.de/images/styleLogo-4fca0210d8dd5d4af0151581cfc7b55113972ba2.png" alt="Banner"/>
+  <h1> RED-V LOGO </h1>
 </p>
 
 # RED-V Update 03.11.2020
@@ -12,25 +12,15 @@
 
 ## Tankstellen System
 <p align="center">
-  <img src="http://epvpimg.com/lAYkfab" alt="Banner"/>
+  <img src="http://i.epvpimg.com/e20Gbab.png" alt="Banner"/>
 </p>
 
 Man kann sein Fahrzeug nun auch an Tankstellen tanken.
 
-### Blackjack
-Dieses Spiel braucht vermutlich kaum noch eine Erklärung. Der Spieler versucht einen höheren Kartenwert als der Dealer zu erzielen, welcher 21 nicht überschreitet. Dabei gibt es die Möglichkeit eine Karte zu ziehen oder bei seinen jetzigen Karten zu bleiben. Die Möglichkeit zu Splitten oder Doublen sind nicht mit enthalten. An einem Blackjacktisch können bis zu 3 Spieler gleichzeitig eine Hand spielen. Derzeit stehen 4 Blackjacktische im Casino zur Verfügung.
-
-| Befehl | Beschreibung |
-| ------ | ------------ |
-| /bj join <Tisch> | Tritt einem Tisch bei |
-| /bj bet <Betrag> | Wette auf eine Hand |
-
-### Roulette
-Ein weiteres klassisches Glücksspiel. Jede Runde wird eine zufällige Zahl gewürfelt. Auf das Ergebnis kann man auf unterschiedlichste Arten setzen. Bei unserem Casino ist Folgendes möglich: Farbe (Rot / Schwarz), Gerade / Ungerade, 1 - 12, 13 - 24, 25 - 36, 1 - 18, 19 - 36 oder riskant auf nur eine Zahl.
-
-| Befehl | Beschreibung |
-| ------ | ------------ |
-| /roulette join | Tritt dem Tisch bei |
+### Bankautomaten
+Es ist nun möglich, Bankautomaten im Spiel zu benutzen.
+Dazu musst du einfach an einen Automaten gehen dein Inventar (I) öffnen und auf der EC-Karte -> Benutzen drücken.
+Danach taucht ein Bankmenü auf.
 
 ## Wunschobjekte
 Ab sofort könnt ihr in einem limitierten Radius um eure Häuser einige Objekte erstellen. Diese werden zuerst nur für euch sichtbar sein, nach einer administrativen Freischaltung für jeden Spieler. Sollte ein Objekt nicht freigeschalten werden, wird dies beim nächsten Join im Chat angezeigt. **Jeglicher Abuse mit unsichtbaren Objekten wird sanktioniert.**
