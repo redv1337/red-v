@@ -33,7 +33,7 @@ Wenn man Stribt bekommt man nun einen Deathscreen.
 Endlich, das neue iOS für's Tablet ist draußen!
 
 | Frakmanager-App | Beschreibung |
-| ------ ---------| ------------ |
+| ------| ------------ |
 | /setzoll <Wert> | Setzt den Zollpreis fest (0$ - 1000$) |
 | /setgunprice <Wert> | Setzt die Hauswaffenpreisabgabe fest (0% - 10%) |
 | /setmarketprice <Wert> | Setzt die Marktpreisabgabe fest (0% - 10%) |
